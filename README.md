@@ -4,5 +4,11 @@ forfeignasse
 
 HOW TO USE:
 
-MakefileMaker [ files...] (take all .c files in the directory you indicates)
-MakefileMaker   			 (take all .c files in the current directory)
+./MakefileMaker [ files...] (will take all .c files in the directory you indicates)
+./MakefileMaker   			(will take all .c files in the current directory)
+
+And the Makefile will be initialized in the current directory you're at.
+
+
+
+~ J'ai faim
